@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\ClientReleases\Rotman" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Images/TD-Securities.gif" publishTime="03/07/2008 19:21:06" />
+    <file relUrl="Images/BP_logo.gif" publishTime="03/07/2008 19:21:02" />
+    <file relUrl="Outcry/Admin/ViewTrades.aspx" publishTime="05/08/2008 08:23:12" />
+    <file relUrl="Outcry/News.aspx" publishTime="02/11/2012 05:03:48" />
+    <file relUrl="Outcry/NewsDetail.aspx" publishTime="11/07/2009 05:57:42" />
+    <file relUrl="Images/Chart/tableII_09.jpg" publishTime="02/16/2005 00:44:18" />
+    <file relUrl="Images/ChartPic_000002.png" publishTime="05/05/2008 15:19:58" />
+    <file relUrl="Outcry/Admin/InputTicket.aspx" publishTime="11/06/2009 16:32:06" />
+    <file relUrl="Images/rotman_header2 copy.jpg" publishTime="03/07/2008 19:21:06" />
+    <file relUrl="Portal/SandTDetails.aspx" publishTime="02/04/2013 18:40:36" />
+    <file relUrl="Images/Chart/spacer.gif" publishTime="02/16/2005 00:44:08" />
+    <file relUrl="Portal/Admin/SetOutcryPrices.aspx" publishTime="08/14/2012 07:15:20" />
+    <file relUrl="RotmanITCPortal.Master" publishTime="11/06/2009 15:48:30" />
+    <file relUrl="Images/CIBC-World-Markets.gif" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="Web.config" publishTime="08/17/2012 09:48:36" />
+    <file relUrl="Outcry/ChartRenderAjax.aspx" publishTime="02/10/2014 12:56:38" />
+    <file relUrl="Images/News/tableII_04.jpg" publishTime="02/16/2005 00:44:14" />
+    <file relUrl="Portal/Outcry/ListTeams.aspx" publishTime="10/24/2008 08:01:36" />
+    <file relUrl="Images/News/tableII_05.jpg" publishTime="02/16/2005 00:44:14" />
+    <file relUrl="Portal/Outcry/HeatSelector.aspx" publishTime="08/14/2012 07:34:06" />
+    <file relUrl="Portal/Admin/UploadScores.aspx" publishTime="02/05/2014 18:02:30" />
+    <file relUrl="Login.aspx" publishTime="05/21/2008 06:35:56" />
+    <file relUrl="Portal/Case1Details.aspx" publishTime="02/05/2014 17:44:14" />
+    <file relUrl="Images/Chart/rotmanlogo_white.gif" publishTime="09/25/2008 06:30:38" />
+    <file relUrl="Images/Chart/tableII_05.jpg" publishTime="02/16/2005 00:44:14" />
+    <file relUrl="bin/GotDotNet.ApplicationBlocks.Data.dll" publishTime="11/07/2006 13:21:40" />
+    <file relUrl="Images/Manulife-Financial.gif" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="Images/Montreal-Exchange.gif" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="Tickets/FindTickets.aspx" publishTime="11/06/2009 16:37:20" />
+    <file relUrl="Admin/TeamEdit.aspx" publishTime="10/17/2008 17:20:50" />
+    <file relUrl="Tickets/UploadTickets.aspx" publishTime="11/04/2008 17:40:16" />
+    <file relUrl="Tickets/EditOutcryTransaction.aspx" publishTime="11/06/2008 18:18:20" />
+    <file relUrl="Images/Chart/tableII_03.jpg" publishTime="02/16/2005 00:44:12" />
+    <file relUrl="Portal/Case3Details.aspx" publishTime="02/08/2014 06:51:16" />
+    <file relUrl="Images/Chart/tableII_02.jpg" publishTime="05/06/2008 17:24:02" />
+    <file relUrl="Images/Chart/tableII_10.jpg" publishTime="02/16/2005 00:44:18" />
+    <file relUrl="Admin/ListUsers.aspx" publishTime="11/06/2008 07:47:54" />
+    <file relUrl="Images/CIBC World Markets.gif" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="bin/CuteWebUI.AjaxUploader.dll" publishTime="02/02/2010 08:38:14" />
+    <file relUrl="Images/Chart/tableII_04.jpg" publishTime="02/16/2005 00:44:14" />
+    <file relUrl="Images/Chart/rotmanlogo_white_old.gif" publishTime="02/16/2005 00:44:10" />
+    <file relUrl="Admin/UserEdit.aspx" publishTime="02/05/2010 18:10:16" />
+    <file relUrl="Portal/Case2Details.aspx" publishTime="02/05/2013 08:32:00" />
+    <file relUrl="Portal/Admin/SetWeights.aspx" publishTime="02/05/2013 11:22:18" />
+    <file relUrl="Portal/Admin/ScoreCSVUpload/TestOracleWeb.sln" publishTime="04/20/2008 18:09:02" />
+    <file relUrl="Scripts/Common.js" publishTime="11/06/2008 08:01:36" />
+    <file relUrl="bin/DundasWebChart.dll" publishTime="08/31/2008 11:49:02" />
+    <file relUrl="Portal/Admin/ClearTickets.aspx" publishTime="08/14/2012 07:06:22" />
+    <file relUrl="Images/News/tableII_11.jpg" publishTime="02/16/2005 00:44:18" />
+    <file relUrl="bin/System.Web.Extensions.dll" publishTime="02/13/2009 09:35:10" />
+    <file relUrl="Images/ChartPic_000001.png" publishTime="05/06/2008 17:10:22" />
+    <file relUrl="Portal/Scores.aspx" publishTime="08/27/2012 16:42:06" />
+    <file relUrl="Portal/Outcry/InputTicket.aspx" publishTime="11/06/2009 16:32:06" />
+    <file relUrl="Images/Chart/tableII_11.jpg" publishTime="02/16/2005 00:44:18" />
+    <file relUrl="Images/rotman_header copy.jpg" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="Images/News/tableII_13.jpg" publishTime="02/16/2005 00:44:20" />
+    <file relUrl="Images/News/tableII_02.jpg" publishTime="02/16/2005 00:44:10" />
+    <file relUrl="Images/TD Securities.gif" publishTime="03/07/2008 19:21:06" />
+    <file relUrl="DefaultError.aspx" publishTime="04/27/2008 04:25:36" />
+    <file relUrl="Portal/TicketImage.aspx" publishTime="11/18/2008 15:08:08" />
+    <file relUrl="Images/Chart/tableII_07.jpg" publishTime="02/16/2005 00:44:16" />
+    <file relUrl="Portal/ViewOutcryTransactions.aspx" publishTime="02/11/2012 05:03:46" />
+    <file relUrl="Images/rotman_banner.jpg" publishTime="10/10/2008 12:49:02" />
+    <file relUrl="Images/Chart/tableII_06.jpg" publishTime="02/16/2005 00:44:16" />
+    <file relUrl="Portal/OutcryDetails.aspx" publishTime="08/13/2012 07:32:02" />
+    <file relUrl="Outcry/ChartNews.aspx" publishTime="02/07/2010 14:29:34" />
+    <file relUrl="Outcry/Admin/Score.aspx" publishTime="11/06/2009 16:32:06" />
+    <file relUrl="NewsStyle.css" publishTime="05/16/2008 14:58:26" />
+    <file relUrl="styles.css" publishTime="09/25/2008 20:32:08" />
+    <file relUrl="Images/Chart/tableII_12.jpg" publishTime="02/16/2005 00:44:20" />
+    <file relUrl="Admin/ListTeams.aspx" publishTime="10/16/2008 18:37:42" />
+    <file relUrl="Images/News/tableII_03.jpg" publishTime="02/16/2005 00:44:12" />
+    <file relUrl="Tickets/TicketAdminHome.aspx" publishTime="11/06/2009 16:08:46" />
+    <file relUrl="Portal/SubheatDetails.aspx" publishTime="09/25/2008 18:43:20" />
+    <file relUrl="Logout.aspx" publishTime="04/13/2008 10:13:44" />
+    <file relUrl="Images/Chart/newlogo.gif" publishTime="02/16/2005 00:44:08" />
+    <file relUrl="Outcry/Admin/ViewFinalScores.aspx" publishTime="05/08/2008 08:05:06" />
+    <file relUrl="Outcry/Admin/ClearTrades.aspx" publishTime="04/28/2008 17:29:02" />
+    <file relUrl="bin/RotmanTrading.dll" publishTime="02/13/2014 19:22:39" />
+    <file relUrl="Admin/ImportTeams.aspx" publishTime="10/17/2008 17:23:48" />
+    <file relUrl="Images/ChartPic_000003.png" publishTime="05/05/2008 15:20:02" />
+    <file relUrl="Outcry/Admin/ImportRawData.aspx" publishTime="10/17/2008 17:54:24" />
+    <file relUrl="Images/News/tableII_08.jpg" publishTime="02/16/2005 00:44:16" />
+    <file relUrl="bin/RotmanTrading.pdb" publishTime="02/13/2014 19:22:39" />
+    <file relUrl="Outcry/Admin/AdminHome.aspx" publishTime="02/18/2012 11:11:02" />
+    <file relUrl="Outcry/Admin/GenOutcryNews.aspx" publishTime="09/25/2008 19:44:34" />
+    <file relUrl="Images/News/tableII_06.jpg" publishTime="02/16/2005 00:44:16" />
+    <file relUrl="Images/News/tableII_09.jpg" publishTime="02/16/2005 00:44:18" />
+    <file relUrl="Images/Chart/banner.jpg" publishTime="03/20/2008 18:45:26" />
+    <file relUrl="Images/News/spacer.gif" publishTime="02/16/2005 00:44:08" />
+    <file relUrl="Images/Chart/tableII_13.jpg" publishTime="02/16/2005 00:44:20" />
+    <file relUrl="Global.asax" publishTime="04/26/2008 15:00:38" />
+    <file relUrl="Images/Manulife Financial.gif" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="Outcry/Admin/UpdateRefresher.aspx" publishTime="02/12/2014 16:47:00" />
+    <file relUrl="Images/News/tableII_01.jpg" publishTime="02/16/2005 00:44:10" />
+    <file relUrl="Images/News/tableII_12.jpg" publishTime="02/16/2005 00:44:20" />
+    <file relUrl="Controls/uwcLegend.ascx" publishTime="04/15/2008 11:43:40" />
+    <file relUrl="Images/Chart/tableII_01.jpg" publishTime="02/16/2005 00:44:10" />
+    <file relUrl="Portal/Admin/OutcryPositions.aspx" publishTime="08/14/2012 17:49:44" />
+    <file relUrl="Images/News/tableII_10.jpg" publishTime="02/16/2005 00:44:18" />
+    <file relUrl="Images/News/tableII_07.jpg" publishTime="02/16/2005 00:44:16" />
+    <file relUrl="Images/rotmanlogo.gif" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="Outcry/Admin/RunOutcry.aspx" publishTime="02/15/2011 05:00:00" />
+    <file relUrl="Images/Cormark_4C.gif" publishTime="03/07/2008 19:21:04" />
+    <file relUrl="RefreshSession.aspx" publishTime="11/20/2008 17:27:08" />
+    <file relUrl="Tickets/TicketResults.aspx" publishTime="10/18/2008 05:15:12" />
+    <file relUrl="Images/Chart/tableII_08.jpg" publishTime="02/16/2005 00:44:16" />
+  </publishProfile>
+</publishData>

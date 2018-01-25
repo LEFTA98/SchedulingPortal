@@ -1,0 +1,66 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="RotmanITCPortal.Master.cs" 
+Inherits="RotmanTrading.RotmanITCPortal" ClassName="RotmanITCPortal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Rotman Trading ITC</title>
+    <link href="~/styles.css" type="text/css" rel="stylesheet" runat="server" />
+    <script type="text/javascript" language="javascript" src="<%= ResolveClientUrl("~/Scripts/Common.js")%>"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="vertical-align:top;">
+        <table class="header" width="100%" style="height:100px;" border="0" cellpadding="50px" cellspacing="0">
+            <tr>
+                <td align="center">
+                    <img src="<%=ResolveClientUrl("~/Images/RITC_logo_v5.png")%>" style="" alt="" />
+                </td>
+            </tr>
+        </table>
+		<table id="tblTeamMenu" visible="false" runat="server" align="center" width="100%" border="0" cellpadding="0" 
+		    cellspacing="0">
+            <tr valign="top">
+			    <td align="center">
+                    | <a href="<%=ResolveClientUrl("~/logout.aspx")%>">Logout</a>  
+			        |
+			    </td>
+		    </tr>
+		</table>
+		<table id="tblPortalAdminMenu" visible="false" runat="server" align="center" width="100%" border="0" cellpadding="0" 
+		    cellspacing="0">
+            <tr valign="top">
+			    <td align="center">
+                    <h3>Administration Area</h3>
+                    | <a href="<%=ResolveClientUrl("~/Logout.aspx")%>">Logoff</a>
+                    |
+			    </td>
+		    </tr>
+		    <tr>
+		        <td>&nbsp;</td>
+		    </tr>
+		</table>
+		<table id="tblPortalOutcryAdminMenu" visible="false" runat="server" align="center" width="100%" border="0" cellpadding="0" 
+		    cellspacing="0">
+            <tr valign="top">
+		        <td align="center">
+		            [ <a href="<%=ResolveClientUrl("~/Portal/Outcry/HeatSelector.aspx")%>">Heat Selector</a> 
+		            | <a href="<%=ResolveClientUrl("~/Portal/Outcry/ListTeams.aspx")%>">Team List</a> 
+                    | <a href="<%=ResolveClientUrl("~/Logout.aspx")%>">Logoff</a> 
+                    ]
+		        </td>
+		    </tr>
+		</table>
+        <asp:ContentPlaceHolder ID="cphPortalMaster" runat="server">
+        </asp:ContentPlaceHolder>
+        <br />
+        <hr />
+        <div align="center">
+	        All Rights Reserved. Copyright &copy; 2016-2017. Rotman International Trading Competition, Rotman School of Management
+        </div><br />
+        <asp:Label ID="lblDev" runat="server"></asp:Label>
+    </div>
+    </form>
+</body>
+</html>

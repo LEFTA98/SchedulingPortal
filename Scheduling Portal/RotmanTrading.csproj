@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{90E1B589-DC96-4B89-B6D4-F6694C0FF0D3}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RotmanTrading</RootNamespace>
+    <AssemblyName>RotmanTrading</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CuteWebUI.AjaxUploader, Version=3.0.0.0, Culture=neutral, PublicKeyToken=bc00d4b0e43ec38d, processorArchitecture=MSIL" />
+    <Reference Include="DundasWebChart, Version=6.2.0.1740, Culture=neutral, PublicKeyToken=90d06b0c62d592d0, processorArchitecture=MSIL" />
+    <Reference Include="GotDotNet.ApplicationBlocks.Data, Version=3.1.0.0, Culture=neutral, PublicKeyToken=875fa32958881c7c" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Controls\uwcLegend.ascx" />
+    <Content Include="DefaultError.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Images\BP_logo.gif" />
+    <Content Include="Images\ChartPic_000001.png" />
+    <Content Include="Images\ChartPic_000002.png" />
+    <Content Include="Images\ChartPic_000003.png" />
+    <Content Include="Images\Chart\banner.jpg" />
+    <Content Include="Images\Chart\newlogo.gif" />
+    <Content Include="Images\Chart\rotmanlogo_white.gif" />
+    <Content Include="Images\Chart\rotmanlogo_white_old.gif" />
+    <Content Include="Images\Chart\spacer.gif" />
+    <Content Include="Images\Chart\tableII_01.jpg" />
+    <Content Include="Images\Chart\tableII_02.jpg" />
+    <Content Include="Images\Chart\tableII_03.jpg" />
+    <Content Include="Images\Chart\tableII_04.jpg" />
+    <Content Include="Images\Chart\tableII_05.jpg" />
+    <Content Include="Images\Chart\tableII_06.jpg" />
+    <Content Include="Images\Chart\tableII_07.jpg" />
+    <Content Include="Images\Chart\tableII_08.jpg" />
+    <Content Include="Images\Chart\tableII_09.jpg" />
+    <Content Include="Images\Chart\tableII_10.jpg" />
+    <Content Include="Images\Chart\tableII_11.jpg" />
+    <Content Include="Images\Chart\tableII_12.jpg" />
+    <Content Include="Images\Chart\tableII_13.jpg" />
+    <Content Include="Images\CIBC World Markets.gif" />
+    <Content Include="Images\CIBC-World-Markets.gif" />
+    <Content Include="Images\Cormark_4C.gif" />
+    <Content Include="Images\Manulife Financial.gif" />
+    <Content Include="Images\Manulife-Financial.gif" />
+    <Content Include="Images\Montreal-Exchange.gif" />
+    <Content Include="Images\News\spacer.gif" />
+    <Content Include="Images\News\tableII_01.jpg" />
+    <Content Include="Images\News\tableII_02.jpg" />
+    <Content Include="Images\News\tableII_03.jpg" />
+    <Content Include="Images\News\tableII_04.jpg" />
+    <Content Include="Images\News\tableII_05.jpg" />
+    <Content Include="Images\News\tableII_06.jpg" />
+    <Content Include="Images\News\tableII_07.jpg" />
+    <Content Include="Images\News\tableII_08.jpg" />
+    <Content Include="Images\News\tableII_09.jpg" />
+    <Content Include="Images\News\tableII_10.jpg" />
+    <Content Include="Images\News\tableII_11.jpg" />
+    <Content Include="Images\News\tableII_12.jpg" />
+    <Content Include="Images\News\tableII_13.jpg" />
+    <Content Include="Images\rotmanlogo.gif" />
+    <Content Include="Images\rotman_banner.jpg" />
+    <Content Include="Images\rotman_header copy.jpg" />
+    <Content Include="Images\rotman_header2 copy.jpg" />
+    <Content Include="Images\TD Securities.gif" />
+    <Content Include="Images\TD-Securities.gif" />
+    <Content Include="Login.aspx" />
+    <Content Include="Logout.aspx" />
+    <Content Include="Portal\Admin\MainControl.aspx" />
+    <Content Include="Portal\Registration.aspx" />
+    <Content Include="Portal\Scheduling.aspx" />
+    <Content Include="styles.css" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\BaseBusiness.cs" />
+    <Compile Include="Business\BasePage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Business\BaseUserControl.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Business\Enumerations.cs" />
+    <Compile Include="Business\GameSettings.cs" />
+    <Compile Include="Business\MSSqlDataAccess.cs" />
+    <Compile Include="Business\SessionManager.cs" />
+    <Compile Include="Business\Transaction.cs" />
+    <Compile Include="Business\Utilities.cs" />
+    <Compile Include="Controls\uwcLegend.ascx.cs">
+      <DependentUpon>uwcLegend.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\uwcLegend.ascx.designer.cs">
+      <DependentUpon>uwcLegend.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="DefaultError.aspx.cs">
+      <DependentUpon>DefaultError.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DefaultError.aspx.designer.cs">
+      <DependentUpon>DefaultError.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Portal\Admin\MainControl.aspx.cs">
+      <DependentUpon>MainControl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Portal\Admin\MainControl.aspx.designer.cs">
+      <DependentUpon>MainControl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Portal\Registration.aspx.cs">
+      <DependentUpon>Registration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Portal\Registration.aspx.designer.cs">
+      <DependentUpon>Registration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Portal\Scheduling.aspx.cs">
+      <DependentUpon>Scheduling.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Portal\Scheduling.aspx.designer.cs">
+      <DependentUpon>Scheduling.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RefreshSession.aspx.cs">
+      <SubType>ASPXCodeBehind</SubType>
+      <DependentUpon>RefreshSession.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RefreshSession.aspx.designer.cs">
+      <DependentUpon>RefreshSession.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RotmanITCPortal.Master.cs">
+      <DependentUpon>RotmanITCPortal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RotmanITCPortal.Master.designer.cs">
+      <DependentUpon>RotmanITCPortal.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\BP_logo.psd" />
+    <None Include="Images\CIBC World Markets.psd" />
+    <None Include="Images\Manulife Financial.psd" />
+    <None Include="Images\rotmanlogo.psd" />
+    <None Include="Images\rotman_header.psd" />
+    <None Include="Images\rotman_header2.psd" />
+    <None Include="Images\TD Securities.psd" />
+    <Content Include="NewsStyle.css" />
+    <Content Include="RefreshSession.aspx" />
+    <Content Include="RotmanITCPortal.Master" />
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ChartRender\" />
+    <Folder Include="Images\ChartRender\" />
+    <Folder Include="Images\TicketImages\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>False</AutoAssignPort>
+          <DevelopmentServerPort>49575</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

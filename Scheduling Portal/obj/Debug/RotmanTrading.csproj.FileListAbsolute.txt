@@ -1,0 +1,52 @@
+C:\Users\Tony\Desktop\website\bin\RotmanTrading.dll
+C:\Users\Tony\Desktop\website\bin\RotmanTrading.pdb
+C:\Users\Tony\Desktop\website\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Tony\Desktop\website\obj\Debug\RotmanTrading.dll
+C:\Users\Tony\Desktop\website\obj\Debug\RotmanTrading.pdb
+C:\Users\Tony\Desktop\website\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\rotmantrading\bin\RotmanTrading.dll.config
+C:\rotmantrading\bin\RotmanTrading.dll
+C:\rotmantrading\bin\RotmanTrading.pdb
+C:\rotmantrading\obj\Debug\RotmanTrading.dll.licenses
+C:\rotmantrading\obj\Debug\RotmanTrading.dll
+C:\rotmantrading\obj\Debug\RotmanTrading.pdb
+C:\RotmanTrading\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\Working\bin\RotmanTrading.dll
+C:\Users\Tony\Desktop\Working\bin\RotmanTrading.pdb
+C:\Users\Tony\Desktop\Working\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Tony\Desktop\Working\obj\Debug\RotmanTrading.dll
+C:\Users\Tony\Desktop\Working\obj\Debug\RotmanTrading.pdb
+C:\Users\Tony\Desktop\Working\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\Participant Portal\bin\RotmanTrading.dll
+C:\Users\Tony\Desktop\Participant Portal\bin\RotmanTrading.pdb
+C:\Users\Tony\Desktop\Participant Portal\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\Participant Portal\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Tony\Desktop\Participant Portal\obj\Debug\RotmanTrading.dll
+C:\Users\Tony\Desktop\Participant Portal\obj\Debug\RotmanTrading.pdb
+C:\Users\Tony\Dropbox\Participant Portal\bin\RotmanTrading.dll
+C:\Users\Tony\Dropbox\Participant Portal\bin\RotmanTrading.pdb
+C:\Users\Tony\Dropbox\Participant Portal\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Dropbox\Participant Portal\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Tony\Dropbox\Participant Portal\obj\Debug\RotmanTrading.dll
+C:\Users\Tony\Dropbox\Participant Portal\obj\Debug\RotmanTrading.pdb
+C:\Users\Tony\Dropbox\Scheduling Portal\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Tony\Dropbox\Scheduling Portal\bin\RotmanTrading.dll
+C:\Users\Tony\Dropbox\Scheduling Portal\bin\RotmanTrading.pdb
+C:\Users\Tony\Dropbox\Scheduling Portal\obj\Debug\RotmanTrading.dll
+C:\Users\Tony\Dropbox\Scheduling Portal\obj\Debug\RotmanTrading.pdb
+C:\Users\Tony\Dropbox\Scheduling Portal\bin\RotmanTrading.dll.config
+C:\Users\Tony\Dropbox\Scheduling Portal\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Scheduling Portal\bin\RotmanTrading.dll.config
+C:\Users\Tony\Documents\Scheduling Portal\bin\RotmanTrading.dll
+C:\Users\Tony\Documents\Scheduling Portal\bin\RotmanTrading.pdb
+C:\Users\Tony\Documents\Scheduling Portal\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Scheduling Portal\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Tony\Documents\Scheduling Portal\obj\Debug\RotmanTrading.dll
+C:\Users\Tony\Documents\Scheduling Portal\obj\Debug\RotmanTrading.pdb
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.dll.config
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.dll
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.pdb
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.dll
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.pdb

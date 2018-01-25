@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Untitled Page</title>
+</head>
+<body>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td> 
+            <table width ="100%"border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td><img src="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_01.jpg" width="31" height="28"></td>
+                    <td width="100%" valign="middle" background="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_02.jpg">
+                        <b>Posted on 9/24/2008 at 10:00 am</b>
+                    </td>
+                    <td><img src="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_04.jpg" width="21" height="28"></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td> 
+            <table width ="100%"border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td background="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_05.jpg">
+                        <img src="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_05.jpg" width="1" height="1">
+                    </td>
+                    <td width="100%">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                            <tr>
+                                <td>
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="3">
+                                        <tr>
+                                            <td>news content goes here<br />&nbsp;</td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table> 
+                    </td>
+                    <td background="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_07.jpg">
+                        <img src="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_07.jpg">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table width ="100%"border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td><img src="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_10.jpg" width="31" height="11"></td>
+                    <td background="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_11.jpg" width="100%"></td>
+                    <td><img src="/InetPub/wwwroot/RotmanTrading/Images/News/tableII_13.jpg" width="21" height="11"></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+
+    <table border="0" width="100%">
+        <tr>
+            <td align="center">
+                        <table style="border-collapse: collapse" cellpadding="2" cellspacing="0"
+                            align="center" border="1" width="100%">
+                            <tr>
+                                <td>
+                                    <table width ="100%"border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td background="/Images/News/tableII_02.jpg">
+                                                <img src="/Images/News/tableII_01.jpg" alt="" width="31" height="28">
+                                            </td>
+                                            <td width="100%" valign="middle" background="/Images/News/tableII_02.jpg">
+                                                <b><span style="font-size:larger;">News</span></b>
+                                            </td>
+                                            <td background="/Images/News/tableII_02.jpg">
+                                                <img src="/Images/News/tableII_04.jpg" alt="" width="21" height="28">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            ---
+                            <tr class="row1">
+                                <td align="center" valign="middle" style="width:810px;">
+                                    --posted on button was here
+                                </td>
+                            </tr>
+                            <tr class="row1">
+                                <td align="center" valign="middle" style="width:810px;">
+                                    --news header button was here
+                                </td>
+                            </tr>
+                    --AlternatingItemTemplate>
+                            <tr class="row2" >
+                                <td align="center" valign="middle" style="width:810px;">
+                                    <asp:Button ID="btnPostedOn1" BackColor="#FFFFE7" runat="server" Width="810px" 
+                                        BorderWidth="0" />
+                                </td>
+                            </tr>
+                            <tr class="row2">
+                                <td align="center" valign="middle" style="width:810px;">
+                                                    <asp:Button ID="btnNewsHeader" BackColor="#FFFFE7" style="font-weight:bold;" 
+                                                        runat="server" Text='<%# DataBinder.Eval(Container.DataItem, "Header") %>' 
+                                                        Width="810px" BorderWidth="0" />
+                                </td>
+                            </tr>
+                    --end AlternatingItemTemplate>
+                    --FooterTemplate>
+                            <tr>
+                                <td>
+                                    <table width ="100%"border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                            <td>
+                                                <img src="/Images/News/tableII_10.jpg" alt="" width="31" height="11">
+                                            </td>
+                                            <td background="/Images/News/tableII_11.jpg" width="100%">
+                                                &nbsp;
+                                            </td>
+                                            <td>
+                                                <img src="/Images/News/tableII_13.jpg" alt="" width="21" height="11">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    --end FooterTemplate>
+                --end asp:Repeater>
+            </td>
+        </tr>
+    </table>
+
+                <table border="1" style="border-color:Black;border-width:1px;" rules="all"
+                    cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                        </td>
+                    </tr>
+                </table>
+
+</body>
+</html>

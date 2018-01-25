@@ -1,0 +1,19 @@
+C:\Users\Tony\Desktop\website\bin\RotmanTrading.dll
+C:\Users\Tony\Desktop\website\bin\RotmanTrading.pdb
+C:\Users\Tony\Desktop\website\obj\Release\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\website\obj\Release\RotmanTrading.dll.licenses
+C:\Users\Tony\Desktop\website\obj\Release\RotmanTrading.dll
+C:\Users\Tony\Desktop\website\obj\Release\RotmanTrading.pdb
+C:\Users\Tony\Dropbox\Participant Portal\bin\RotmanTrading.dll
+C:\Users\Tony\Dropbox\Participant Portal\bin\RotmanTrading.pdb
+C:\Users\Tony\Dropbox\Participant Portal\obj\Release\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Dropbox\Participant Portal\obj\Release\RotmanTrading.dll.licenses
+C:\Users\Tony\Dropbox\Participant Portal\obj\Release\RotmanTrading.dll
+C:\Users\Tony\Dropbox\Participant Portal\obj\Release\RotmanTrading.pdb
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.dll.config
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.dll
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.pdb
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Release\RotmanTrading.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Release\RotmanTrading.dll.licenses
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Release\RotmanTrading.dll
+C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Release\RotmanTrading.pdb

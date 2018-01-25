@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2014-08-05T23:23:00.0000000+09:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>C:\Users\Tony\Desktop\Here</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/ImportTeams.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Admin/ListTeams.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Admin/ListUsers.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Admin/TeamEdit.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Admin/UserEdit.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="bin/CuteWebUI.AjaxUploader.dll">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="bin/DundasWebChart.dll">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="bin/GotDotNet.ApplicationBlocks.Data.dll">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="bin/RotmanTrading.dll">
+      <publishTime>08/14/2015 23:02:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Extensions.dll">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Controls/uwcLegend.ascx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="DefaultError.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/BP_logo.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/banner.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/newlogo.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/rotmanlogo_white.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/rotmanlogo_white_old.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/spacer.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_01.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_02.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_03.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_04.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_05.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_06.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_07.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_08.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_09.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_10.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_11.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_12.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Chart/tableII_13.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/ChartPic_000001.png">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/ChartPic_000002.png">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/ChartPic_000003.png">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/CIBC World Markets.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/CIBC-World-Markets.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Cormark_4C.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Manulife Financial.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Manulife-Financial.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/Montreal-Exchange.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/spacer.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_01.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_02.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_03.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_04.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_05.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_06.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_07.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_08.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_09.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_10.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_11.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_12.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/News/tableII_13.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/rotmanlogo.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/rotman_banner.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/rotman_header copy.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/rotman_header2 copy.jpg">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/TD Securities.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Images/TD-Securities.gif">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>08/14/2015 13:42:09</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="NewsStyle.css">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/AdminHome.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/ClearTrades.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/GenOutcryNews.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/ImportRawData.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/InputTicket.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/RunOutcry.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/Score.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/UpdateRefresher.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/ViewFinalScores.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/Admin/ViewTrades.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/ChartNews.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/ChartRenderAjax.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/News.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Outcry/NewsDetail.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Admin/ClearTickets.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Admin/MainControl.aspx">
+      <publishTime>08/14/2015 22:58:08</publishTime>
+    </File>
+    <File Include="Portal/Admin/OutcryPositions.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Admin/SetCaseDetails.aspx">
+      <publishTime>08/13/2015 01:06:19</publishTime>
+    </File>
+    <File Include="Portal/Admin/SetOutcryPrices.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Admin/SetWeights.aspx">
+      <publishTime>02/05/2013 15:22:18</publishTime>
+    </File>
+    <File Include="Portal/Admin/svb.aspx">
+      <publishTime>08/12/2015 20:13:39</publishTime>
+    </File>
+    <File Include="Portal/Admin/UploadScores.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Admin/UploadSocialOutcryScores.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case10Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case1Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case2Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case3Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case4Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case5Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case6Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case7Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case8Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Case9Details.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Outcry/HeatSelector.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Outcry/InputTicket.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Outcry/ListTeams.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/OutcryDetails.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Registration.aspx">
+      <publishTime>08/14/2015 22:25:32</publishTime>
+    </File>
+    <File Include="Portal/SandTDetails.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/Scores.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/SocialOutcryScores.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/StudentScores.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/SubheatDetails.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/TicketImage.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Portal/ViewOutcryTransactions.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="RefreshSession.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="RotmanITCPortal.Master">
+      <publishTime>08/14/2015 22:56:40</publishTime>
+    </File>
+    <File Include="styles.css">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Tickets/EditOutcryTransaction.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Tickets/FindTickets.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Tickets/TicketAdminHome.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Tickets/TicketResults.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Tickets/UploadTickets.aspx">
+      <publishTime>08/05/2014 23:23:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/12/2015 18:40:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

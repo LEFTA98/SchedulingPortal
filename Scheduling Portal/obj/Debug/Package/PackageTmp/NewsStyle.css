@@ -1,0 +1,38 @@
+body,p,blockquote,th,td,tr,table,li { 
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Geneva, Lucida, sans-serif;
+  font-size:12px;
+}
+
+.tableSummary {
+  border-collapse: collapse;
+}
+
+.tableSummary td {
+  border-style: dashed;
+  border-width: 1px;
+  border-color: black;
+}
+
+.tableSummary .header {
+  border-bottom: solid;
+}
+
+.tableSummary .quoteDetail td {
+	border: none;
+}
+
+.tableSummary .quoteDetail .quoteBox {
+	width: 88px;
+}
+
+.bigQuote {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Geneva, Lucida, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: bolder;
+}
+
+.DetailsHeader
+{
+	background-image: '';
+}
