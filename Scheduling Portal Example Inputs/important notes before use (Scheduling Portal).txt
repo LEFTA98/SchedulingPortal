@@ -6,7 +6,6 @@ Before publishing:
 replace the current "web.config" with the web.config to be used for the Rotman webserver ("Web_real")
 
 After publishing:
-- go to admin, delete the times and upload times file again (verify the rows match)
 - the times file is "AlgoSchedule.csv", which lists for each userID (same order as the username/password file) the competition time slots
 for BP and 4 heats of algo. Note that algo has in total 16 slots divided evenly for fri morning, afternoon, saturday morning, afternoon
 a1: 1-4

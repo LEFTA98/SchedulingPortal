@@ -34,10 +34,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 14:23:00</publishTime>
     </File>
     <File Include="bin/RotmanTrading.dll">
-      <publishTime>01/21/2017 11:18:08</publishTime>
     </File>
     <File Include="bin/RotmanTrading.pdb">
-      <publishTime>01/21/2017 11:18:08</publishTime>
     </File>
     <File Include="bin/System.Web.Extensions.dll">
       <publishTime>08/05/2014 14:23:00</publishTime>
@@ -322,7 +320,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 23:23:00</publishTime>
     </File>
     <File Include="Portal/Scheduling.aspx">
-      <publishTime>12/24/2016 22:05:16</publishTime>
+      <publishTime>01/25/2018 12:37:04</publishTime>
     </File>
     <File Include="Portal/Scores.aspx">
       <publishTime>08/05/2014 23:23:00</publishTime>
@@ -346,7 +344,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 14:23:00</publishTime>
     </File>
     <File Include="RotmanITCPortal.Master">
-      <publishTime>12/24/2016 21:35:59</publishTime>
+      <publishTime>01/25/2018 12:43:23</publishTime>
     </File>
     <File Include="styles.css">
       <publishTime>01/07/2016 02:28:48</publishTime>
