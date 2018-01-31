@@ -270,8 +270,8 @@ namespace RotmanTrading.Portal.Admin
                                 idx += 1;
                             }
 
-                            // the ID is +1 because ID = 1 is the admin, which never changes
-                            m_objDA.UpdateTimesData(Int32.Parse(arrImportData[0])+1, Int32.Parse(arrImportData[1]), Int32.Parse(arrImportData[2]), Int32.Parse(arrImportData[3])+4, Int32.Parse(arrImportData[4])+8, Int32.Parse(arrImportData[5])+12);
+                            
+                            m_objDA.UpdateTimesData(Int32.Parse(arrImportData[0]), Int32.Parse(arrImportData[1]), Int32.Parse(arrImportData[2]), Int32.Parse(arrImportData[3])+4, Int32.Parse(arrImportData[4])+8, Int32.Parse(arrImportData[5])+12);
 
                         }
                         m_objDA.TransactionCommit();

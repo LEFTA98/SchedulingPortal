@@ -5,17 +5,36 @@ To setup:
 Before publishing:
 replace the current "web.config" with the web.config to be used for the Rotman webserver ("Web_real")
 
+After publishing:
+- go to admin, delete the times and upload times file again (verify the rows match)
+- the times file is "AlgoSchedule.csv", which lists for each userID (same order as the username/password file) the competition time slots
+for BP and 4 heats of algo. Note that algo has in total 16 slots divided evenly for fri morning, afternoon, saturday morning, afternoon
+a1: 1-4
+a2: 5-8
+a3: 9-12
+a4: 13-16
+
 Publish path: (should be the default)
 \\fmgmt-02.rotman.utoronto.ca\bonham\lab
 
-
-Go to SQL database
+To clear the user list: execute SQL command
 delete from userdata where UserTypeID = 3
+
+To clear the profile checkboxes, execute command:
 delete from MemberRoles
--check times table is populated
 
-Saved file: in the same folder as published folder path
+Saved schedule file: in the same folder as published folder path
 
+
+Portal link:
+http://ritc.rotman.utoronto.ca/Participant_Portal/Login.aspx
+
+Admin login:
+login: admin
+password: frtl
+
+Downloaded student timetable location:
+\\fmgmt-02.rotman.utoronto.ca\bonham\lab\RITCWebsite\Participant_Portal\CompetitionSchedule.csv
 
 
 Two required CSV Files:
@@ -27,9 +46,6 @@ Student List
 * the two csv files must contain columns in the specified order
 * school name in both "User List" and "Student List" files must match EXACTLY
 * no accents or commas allowed in the school name or student name
-
-* admin username: admin
-* admin password: frtl
 
 Note:
 To change the case names, go to file "Scheduling.aspx.cs" and change the variables
@@ -45,63 +61,3 @@ To change the quant or algo case names, go to the .aspx file directly and change
         public static string d1pm = "VT";
         public static string d2am = "CR";
         public static string d2pm = "ETF";
-
-
-
-* the BP/Algo times list has already been uploaded
-* the order that the schools are listed in "2016UserList.csv" determines whether they're in BP heat 1 or BP heat 2
-	refer to below for the list (in case shuffling of teams is needed)
-
-	BPHeat
-1	1
-2	2
-3	1
-4	2
-5	1
-6	2
-7	1
-8	2
-9	2
-10	1
-11	1
-12	2
-13	1
-14	2
-15	2
-16	1
-17	2
-18	1
-19	2
-20	1
-21	1
-22	2
-23	1
-24	2
-25	1
-26	1
-27	2
-28	2
-29	1
-30	2
-31	2
-32	1
-33	1
-34	2
-35	2
-36	1
-37	1
-38	2
-39	1
-40	2
-41	2
-42	1
-43	2
-44	1
-45	2
-46	1
-47	1
-48	2
-49	1
-50	2
-51	1
-52	2
