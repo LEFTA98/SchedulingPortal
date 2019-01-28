@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile>2019-01-13T11:49:35.3542864-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
-    <_PublishTargetUrl>\\fmgmt-02.rotman.utoronto.ca\bonham\lab</_PublishTargetUrl>
+    <_PublishTargetUrl>\\fmgmt-0\bonham\lab\RITCWebsite\Participant_Portal</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Admin/ImportTeams.aspx">
@@ -34,10 +34,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="bin/RotmanTrading.dll">
-      <publishTime>01/28/2019 13:13:09</publishTime>
+      <publishTime>01/28/2019 13:51:13</publishTime>
     </File>
     <File Include="bin/RotmanTrading.pdb">
-      <publishTime>01/28/2019 13:13:09</publishTime>
+      <publishTime>01/28/2019 13:51:13</publishTime>
     </File>
     <File Include="bin/System.Web.Extensions.dll">
       <publishTime>01/13/2019 11:49:35</publishTime>

@@ -14,7 +14,7 @@ a3: 9-12
 a4: 13-16
 
 Publish path: (should be the default)
-\\fmgmt-02.rotman.utoronto.ca\bonham\lab
+\\fmgmt-0\bonham\lab
 
 To clear the user list: execute SQL command
 delete from userdata where UserTypeID = 3
