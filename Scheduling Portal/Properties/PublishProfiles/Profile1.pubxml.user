@@ -5,8 +5,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <TimeStampOfAssociatedLegacyPublishXmlFile>2014-08-05T14:23:00.0000000-04:00</TimeStampOfAssociatedLegacyPublishXmlFile>
-    <_PublishTargetUrl>\\fmgmt-02.rotman.utoronto.ca\bonham\lab\RITCWebsite\Participant_Portal</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2019-01-13T11:49:35.3542864-05:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>\\fmgmt-02.rotman.utoronto.ca\bonham\lab</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Admin/ImportTeams.aspx">
@@ -25,182 +25,184 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 23:23:00</publishTime>
     </File>
     <File Include="bin/CuteWebUI.AjaxUploader.dll">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="bin/DundasWebChart.dll">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="bin/GotDotNet.ApplicationBlocks.Data.dll">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="bin/RotmanTrading.dll">
+      <publishTime>01/28/2019 13:13:09</publishTime>
     </File>
     <File Include="bin/RotmanTrading.pdb">
+      <publishTime>01/28/2019 13:13:09</publishTime>
     </File>
     <File Include="bin/System.Web.Extensions.dll">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Controls/uwcLegend.ascx">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="DefaultError.aspx">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/BP_logo.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/banner.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/newlogo.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/rotmanlogo_white.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/rotmanlogo_white_old.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/spacer.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_01.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_02.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_03.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_04.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_05.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_06.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_07.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_08.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_09.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_10.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_11.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_12.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Chart/tableII_13.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/ChartPic_000001.png">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/ChartPic_000002.png">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/ChartPic_000003.png">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/CIBC World Markets.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/CIBC-World-Markets.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Cormark_4C.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Manulife Financial.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Manulife-Financial.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/Montreal-Exchange.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/spacer.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_01.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_02.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_03.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_04.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_05.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_06.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_07.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_08.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_09.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_10.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_11.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_12.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/News/tableII_13.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/rotmanlogo.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/rotman_banner.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/rotman_header copy.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/rotman_header2 copy.jpg">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/TD Securities.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Images/TD-Securities.gif">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Login.aspx">
-      <publishTime>12/30/2015 03:16:02</publishTime>
+      <publishTime>01/20/2019 23:13:42</publishTime>
     </File>
     <File Include="Logout.aspx">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="NewsStyle.css">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Outcry/Admin/AdminHome.aspx">
       <publishTime>08/05/2014 23:23:00</publishTime>
@@ -248,7 +250,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 23:23:00</publishTime>
     </File>
     <File Include="Portal/Admin/MainControl.aspx">
-      <publishTime>12/24/2016 21:35:21</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Portal/Admin/OutcryPositions.aspx">
       <publishTime>08/05/2014 23:23:00</publishTime>
@@ -314,13 +316,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 23:23:00</publishTime>
     </File>
     <File Include="Portal/Registration.aspx">
-      <publishTime>08/14/2015 13:25:32</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="Portal/SandTDetails.aspx">
       <publishTime>08/05/2014 23:23:00</publishTime>
     </File>
     <File Include="Portal/Scheduling.aspx">
-      <publishTime>01/25/2018 12:37:04</publishTime>
+      <publishTime>01/26/2019 10:38:10</publishTime>
     </File>
     <File Include="Portal/Scores.aspx">
       <publishTime>08/05/2014 23:23:00</publishTime>
@@ -341,13 +343,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 23:23:00</publishTime>
     </File>
     <File Include="RefreshSession.aspx">
-      <publishTime>08/05/2014 14:23:00</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="RotmanITCPortal.Master">
-      <publishTime>01/25/2018 12:43:23</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
     <File Include="styles.css">
-      <publishTime>01/07/2016 02:28:48</publishTime>
+      <publishTime>01/13/2019 11:49:36</publishTime>
     </File>
     <File Include="Tickets/EditOutcryTransaction.aspx">
       <publishTime>08/05/2014 23:23:00</publishTime>
@@ -365,7 +367,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/05/2014 23:23:00</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/10/2017 14:42:22</publishTime>
+      <publishTime>01/13/2019 11:49:35</publishTime>
     </File>
   </ItemGroup>
 </Project>

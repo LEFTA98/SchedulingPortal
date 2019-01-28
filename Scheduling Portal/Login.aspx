@@ -6,7 +6,7 @@
         <tr>
             <td align="center">
                 <h3>Participant Portal</h3>
-            </td>
+            </td
         </tr>
         <tr>
             <td>

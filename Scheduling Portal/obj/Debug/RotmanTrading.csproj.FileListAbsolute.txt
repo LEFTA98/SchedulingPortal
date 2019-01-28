@@ -50,3 +50,12 @@ C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTradi
 C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.dll.licenses
 C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.dll
 C:\Users\Tony\Documents\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.pdb
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.dll.config
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.dll
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\bin\RotmanTrading.pdb
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.csprojAssemblyReference.cache
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.dll.licenses
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.csproj.CopyComplete
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.dll
+C:\Users\Thomas Ma\Desktop\University\Third Year\side projects\rotman\SchedulingPortal\Scheduling Portal\obj\Debug\RotmanTrading.pdb

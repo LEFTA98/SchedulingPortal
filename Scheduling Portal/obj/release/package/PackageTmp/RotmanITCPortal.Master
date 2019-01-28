@@ -57,7 +57,7 @@ Inherits="RotmanTrading.RotmanITCPortal" ClassName="RotmanITCPortal" %>
         <br />
         <hr />
         <div align="center">
-	        All Rights Reserved. Copyright &copy; 2016-2017. Rotman International Trading Competition, Rotman School of Management
+	        All Rights Reserved. Copyright &copy; 2018. Rotman International Trading Competition, Rotman School of Management
         </div><br />
         <asp:Label ID="lblDev" runat="server"></asp:Label>
     </div>

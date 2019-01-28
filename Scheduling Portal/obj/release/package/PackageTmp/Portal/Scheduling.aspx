@@ -9,7 +9,7 @@
             <center><asp:Label ID="lblErrorMsg" CssClass="redtext" runat="server"></asp:Label>
             <asp:Label ID="lblUserMessage" CssClass="greentext" runat="server" Visible ="false"></asp:Label></center>
 
-        <h2 style="text-align:left"><u>Friday Morning:</u> <%= this.Day1MorningCase %>, Algorithmic Trading Heat #1</h2>
+        <h2 style="text-align:left"><u>Friday Morning:</u> <%= this.Day1MorningCase %>, Citadel Algo Heat #1</h2>
         <p style ="text-align:left"><%= this.Day1MorningCase %>: Designate one member as producer, one member as refiner, and two members as traders</p>
         <p style ="text-align:left">Algorithmic Trading Case: Designate one member to compete in Heat #1</p>
         <table style="border-color:Black;border-width:1px;"
@@ -31,7 +31,7 @@
     </div>
 
     <div style="padding-left:100px; padding-right:100px; padding-top: 65px">
-        <h2 style="text-align:left"><u>Friday Afternoon:</u> <%= this.Day1AfternoonCase %>, Algorithmic Trading Heat #2, Quantitative Outcry</h2>
+        <h2 style="text-align:left"><u>Friday Afternoon:</u> <%= this.Day1AfternoonCase %>, Citadel Algo Heat #2, S&P Global Quant Outcry</h2>
         <p style ="text-align:left"><%= this.Day1AfternoonCase %>: Designate two members for Heat #1 (1:00-2:30PM), and two different members for Heat #2 (2:30-4:00PM)</p>
         <p style ="text-align:left">Algorithmic Trading Case: Designate one member to compete in Heat #2</p>
         <p style ="text-align:left">Quantitative Outcry: Designate two members as traders, and two other members as analysts for the first heat (they will switch roles for the second heat)</p>
@@ -56,7 +56,7 @@
     </div>
 
     <div style="padding-left:100px; padding-right:100px; padding-top: 65px">
-        <h2 style="text-align:left"><u>Saturday Morning:</u> <%= this.Day2MorningCase %>, Algorithmic Trading Heat #3</h2>
+        <h2 style="text-align:left"><u>Saturday Morning:</u> <%= this.Day2MorningCase %>, Citadel Algo Heat #3</h2>
         <p style ="text-align:left"><%= this.Day2MorningCase %> Case: Designate two members for Heat #1 (9:00-10:30AM), and two different members for Heat #2 (10:30AM-12:00PM)</p>
         <p style ="text-align:left">Algorithmic Trading Case: Designate one member to compete in Heat #3</p>
         <table style="border-color:Black;border-width:1px;"
@@ -77,7 +77,7 @@
     </div>
 
     <div style="padding-left:100px; padding-right:100px; padding-top: 65px">
-        <h2 style="text-align:left"><u>Saturday Afternoon:</u> <%= this.Day2AfternoonCase %>, Algorithmic Trading Heat #4</h2>
+        <h2 style="text-align:left"><u>Saturday Afternoon:</u> <%= this.Day2AfternoonCase %>, Citadel Algo Heat #4</h2>
         <p style ="text-align:left"><%= this.Day2AfternoonCase %>: Designate two members for Heat #1 (1:00-2:30PM), and two different members for Heat #2 (2:30-4:00PM)</p>
         <p style ="text-align:left">Algorithmic Trading Case: Designate one member to compete in Heat #4</p>
         <table style="border-color:Black;border-width:1px;"

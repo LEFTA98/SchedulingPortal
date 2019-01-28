@@ -20,14 +20,14 @@ namespace RotmanTrading.Portal.Admin
         // change names of cases below
 
         public string Day1MorningCase = "BP Commodities";
-         public string Day1AfternoonCase = "Fixed Income Trading";
-         public string Day2MorningCase = "MATLAB Volatility Trading";
-         public string Day2AfternoonCase = "Flow Traders ETF";
+         public string Day1AfternoonCase = "Flow Traders ETF";
+         public string Day2MorningCase = "Bridgewater Fixed Income";
+         public string Day2AfternoonCase = "MATLAB Volatility Trading";
 
         public static string d1am = "BP";
-        public static string d1pm = "FI";
-        public static string d2am = "ML";
-        public static string d2pm = "FT";
+        public static string d1pm = "FT";
+        public static string d2am = "FI";
+        public static string d2pm = "ML";
 
         #region Declarations
         private ArrayList m_errorList = new ArrayList();
@@ -476,6 +476,13 @@ namespace RotmanTrading.Portal.Admin
                 int bpref = ValueCheck((CheckBox)PlaceHolder1.FindControl(string.Format("BPref{0}", i)));
                 int bptrader = ValueCheck((CheckBox)PlaceHolder1.FindControl(string.Format("BPtrader{0}", i)));
 
+                int in_bp = 1;
+
+                if (bpprod + bpref + bptrader == 0)
+                {
+                    in_bp = 0;
+                }
+
                 if (bpprod == 1 & bpref == 1)
                 {
                     this.lblErrorMsg.Text = "Cannot assign one competitor as both producer and refiner for BP Commodities Case";
@@ -516,7 +523,12 @@ namespace RotmanTrading.Portal.Admin
                 int credit1 = ValueCheck((CheckBox)PlaceHolder3.FindControl(string.Format("Credit1Student{0}", i)));
                 int credit2 = ValueCheck((CheckBox)PlaceHolder3.FindControl(string.Format("Credit2Student{0}", i)));
 
+                int in_credit = 1;
 
+                if (credit1 + credit2 == 0)
+                {
+                    in_credit = 0;
+                }
 
 
                 if (credit1 == 1 & credit2 == 1)
@@ -543,6 +555,14 @@ namespace RotmanTrading.Portal.Admin
                 int outcry1 = ValueCheck((CheckBox)PlaceHolder2.FindControl(string.Format("Outcrytrader{0}", i)));
                 int outcry2 = ValueCheck((CheckBox)PlaceHolder2.FindControl(string.Format("Outcryanalyst{0}", i)));
 
+                int in_outcry = 1;
+
+                if (outcry1 + outcry2 == 0)
+                {
+                    in_outcry = 0;
+                }
+
+
                 if (outcry1 == 1 & outcry2 == 1)
                 {
                     this.lblErrorMsg.Text = "Cannot assign one competitor as both trader and analyst for Quantitative Outcry Case";
@@ -566,6 +586,13 @@ namespace RotmanTrading.Portal.Admin
 
                 int cap1 = ValueCheck((CheckBox)PlaceHolder2.FindControl(string.Format("Cap1Student{0}", i)));
                 int cap2 = ValueCheck((CheckBox)PlaceHolder2.FindControl(string.Format("Cap2Student{0}", i)));
+
+                int in_cap = 1;
+
+                if (cap1 + cap2 == 0)
+                {
+                    in_cap = 0;
+                }
 
                 if (cap1 == 1 & cap2 == 1)
                 {
@@ -591,6 +618,13 @@ namespace RotmanTrading.Portal.Admin
 
                 int st1 = ValueCheck((CheckBox)PlaceHolder4.FindControl(string.Format("ST1Student{0}", i)));
                 int st2 = ValueCheck((CheckBox)PlaceHolder4.FindControl(string.Format("ST2Student{0}", i)));
+
+                int in_st = 1;
+
+                if (st1 + st2 == 0)
+                {
+                    in_st = 0;
+                }
 
 
                 if (st1 == 1 & st2 == 1)
@@ -688,6 +722,18 @@ namespace RotmanTrading.Portal.Admin
                     }
                 }
 
+                int in_algo = 1;
+
+                if (Algo1 + Algo2 + Algo3 + Algo4 == 0)
+                {
+                    in_algo = 0;
+                }
+
+                if (in_bp + in_credit + in_outcry + in_cap + in_st + in_algo < 2)
+                {
+                    this.lblErrorMsg.Text = "Each member must participate in at least two unique cases";
+                    return;
+                }
 
 
 

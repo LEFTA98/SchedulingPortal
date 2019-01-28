@@ -1,10 +1,10 @@
 Institution Name,Student Name,BPRole,QuantHeat1Role,BP1,BP2,Case2H1,Case2H2,Case3H1,Case3H2,Case4H1,Case4H2
-Princeton University, Tyler Foote,Producer,Trader,9:00 BP 1,Algo 11:00-11:30AM,1:00 FI 1,,9:00 ML 1,,,2:30 FT 2
-Princeton University, Ankit Buddhiraju,Refiner,Trader,9:00 BP 1,,1:00 FI 1,,9:00 ML 1,Algo 10:30-11:00AM,,2:30 FT 2
-Princeton University, Kubrat Danailov,Trader,Analyst,9:00 BP 1,,Algo 1:00-1:30PM,2:30 FI 2,,10:30 ML 2,1:00 FT 1,Algo 2:30-3:00PM
-Princeton University, Wesley Cao,Trader,Analyst,9:00 BP 1,,,2:30 FI 2,,10:30 ML 2,1:00 FT 1,
-Peking University, Junlue Jiang,Producer,Trader,,10:30 BP 2,1:00 FI 1,Algo 1:30-2:00PM,9:00 ML 1,,,2:30 FT 2
-Peking University, Xiaochuan Gong,Refiner,Trader,,10:30 BP 2,1:00 FI 1,,9:00 ML 1,,1:00 FT 1,
-Peking University, Boyuan Xue,Trader,Analyst,Algo 9:30-10:00AM,10:30 BP 2,,2:30 FI 2,,10:30 ML 2,1:00 FT 1,Algo 1:00-1:30PM
-Peking University, Zhongling Shen,Trader,Analyst,,10:30 BP 2,,,,10:30 ML 2,,2:30 FT 2
-Peking University, Xinyu Li,,,,,,2:30 FI 2,Algo 9:00-9:30AM,,,
+Princeton University, Tyler Foote,,,,,,,,,,
+Princeton University, Ankit Buddhiraju,,,,,,,,,,
+Princeton University, Kubrat Danailov,,,,,,,,,,
+Princeton University, Wesley Cao,,,,,,,,,,
+Peking University, Junlue Jiang,Producer,Analyst,,10:30 BP 2,1:00 FI 1,,9:00 ML 1,,1:00 FT 1,
+Peking University, Xiaochuan Gong,Refiner,Analyst,,10:30 BP 2,1:00 FI 1,,9:00 ML 1,,Algo 1:00-1:30PM,2:30 FT 2
+Peking University, Boyuan Xue,Trader,Trader,Algo 9:30-10:00AM,10:30 BP 2,Algo 1:30-2:00PM,2:30 FI 2,,10:30 ML 2,,2:30 FT 2
+Peking University, Zhongling Shen,Trader,Trader,,10:30 BP 2,,2:30 FI 2,Algo 9:00-9:30AM,10:30 ML 2,1:00 FT 1,
+Peking University, Xinyu Li,,,,,,,,,,
