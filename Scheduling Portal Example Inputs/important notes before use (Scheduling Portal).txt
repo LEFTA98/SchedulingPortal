@@ -14,7 +14,7 @@ a3: 9-12
 a4: 13-16
 
 Publish path: (should be the default)
-\\fmgmt-0\bonham\lab
+\\fmgmt-0\bonham\lab\RITCWebsite\Participant_Portal
 
 To clear the user list: execute SQL command
 delete from userdata where UserTypeID = 3
@@ -33,7 +33,7 @@ login: admin
 password: frtl
 
 Downloaded student timetable location:
-\\fmgmt-02.rotman.utoronto.ca\bonham\lab\RITCWebsite\Participant_Portal\CompetitionSchedule.csv
+\\fmgmt-0\bonham\lab\RITCWebsite\Participant_Portal\CompetitionSchedule.csv
 
 
 Two required CSV Files:
